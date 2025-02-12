@@ -2,16 +2,16 @@
     "usuarios": [
       {
         "id": "1",
-        "username": "Admin",
-        "password": "123"
+        "username": "Juan",
+        "password": "1234"
       }
     ],
     "refacciones": [
       {
-        "id": "792c",
-        "nombre": "Liquido",
+        "id": "ab33",
+        "nombre": "Tambor",
         "categoria": "Frenos",
-        "precio": "100.52"
+        "precio": "1500.00"
       }
     ]
   }
